@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eva-mist
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me opotoeva@gmail.com
 
 <!---
